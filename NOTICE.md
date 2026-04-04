@@ -1,6 +1,6 @@
 ## 基本的なライセンス情報
 
-このアプリはAndroid Software Development Kit (SDK) を使用して開発されています。  
+このアプリ(com.coara.settingeditor)はAndroid Software Development Kit (SDK) を使用して開発されています。  
 Android SDKはGoogle LLCによって提供されており  
 オープンソースのApache License 2.0のもとで利用可能です。
 
@@ -14,4 +14,4 @@ Android SDKはGoogle LLCによって提供されており
 
 - **Android™** はGoogle LLCの商標です。
 ---
-Copyright 2025 coara-chocomaru
+Copyright 2026 coara-chocomaru
